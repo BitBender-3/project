@@ -1,0 +1,1 @@
+Here u can find some info bout this project on git.
